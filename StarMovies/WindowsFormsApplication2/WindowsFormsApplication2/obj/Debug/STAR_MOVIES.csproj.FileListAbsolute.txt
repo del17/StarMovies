@@ -1,0 +1,3 @@
+C:\Users\Carlos Almeida\Desktop\SE Expt\SE Expt4\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Carlos Almeida\Desktop\SE Expt\SE Expt4\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Carlos Almeida\Desktop\SE Expt\SE Expt4\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
